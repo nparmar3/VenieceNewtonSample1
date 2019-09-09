@@ -1,0 +1,118 @@
+.nav {
+	position: relative;
+	overflow: hidden;
+	background-color: #F7B731; /* #4ABDAC */
+	/* 	border: 4px dashed #FC4A1A;  */
+	font-size: 50px;
+}
+.nav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 25px 30px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ a:hover {
+  background-color: white;
+  color: #F7B731;
+}
+
+a.active {
+	background-color: white;
+	color: #F7B731;
+}
+
+.navright {
+	float: right;
+	font-size: 20px;
+}
+
+.navleft {
+	float: left;
+}
+
+.split {
+	height: 120%;
+	width: 78%;
+	position: fixed;
+	top: 1;
+	padding-top: 100px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: -40px;
+	color: white;
+}
+
+.left {
+	left: 0;
+	background-color: #FC4A1A; 
+	text-align: left;
+}
+
+.right{
+	right: 0; /* the smaller the number, the more it moves to the right */ 
+	background-color: #F5F5F5; /*F7B7318*/
+	text-align: center;
+}
+
+
+img {						/* main images about veniece's involvement */
+	padding: 50px;
+	margin-top: -70px;
+}
+
+
+#vnimg{			/* control veniece's image on the left */
+	margin-top: -50px;
+	margin-right: 20px;
+	margin-left: -33px;
+	margin-bottom: 0px;
+}
+
+.social {
+	padding: 0px;
+	border-radius: 25px;
+}
+
+body {
+	overflow: auto;
+	color: black;
+}
+
+h2 {
+	text-align: center;
+	color: black;
+	font-family: "arial";
+	margin-top: -80px;
+	font-style: italic;
+}
+
+p {
+	color: black;
+	font-family: "arial";
+	font-size: 15px;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
